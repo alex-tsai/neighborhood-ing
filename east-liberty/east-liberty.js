@@ -1,4 +1,4 @@
-var images = ["url('east-liberty_1.jpg')", "url('east-liberty_2.jpg')", "url('east-liberty_3.jpg')", "url('east-liberty_4.jpg')", "url('east-liberty_5.jpg')", "url('east-liberty_6.jpg')", "url('east-liberty_7.jpg')", "url('east-liberty_8.jpg')"];
+var images = ["url('east-liberty_1.jpg')", "url('east-liberty_2.jpg')", "url('east-liberty_3.jpg')", "url('east-liberty_4.jpg')", "url('east-liberty_5.jpg')", "url('eb6.jpg')", "url('east-liberty_7.jpg')", "url('eb8.jpg')"];
 var counter = 0;
 
 
