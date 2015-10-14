@@ -10,7 +10,7 @@ $(document).ready(function(){
    			$("body").css("background-image", images[counter]);
    		}
    		else{
-
+               window.location.href = "../index.html";
    		}
    		if(counter == 0){
    			$(".text").css("display", "block")
