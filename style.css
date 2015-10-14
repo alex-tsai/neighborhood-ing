@@ -37,6 +37,7 @@ body{
 	margin-left:-20%;
 	height: 9em;
 	overflow: scroll;
+	overflow-x:auto;
 }
 #inter{
 	display:none;
@@ -48,9 +49,10 @@ body{
 	color:#111;
 	line-height: 130%;
 	font-family: 'Open Sans', serif;
-	font-size:18px;
+	font-size:14px;
 	position:fixed;
 	overflow:scroll;
+	overflow-x:auto;
 	padding: 1.5%;
 	bottom:0;
 }
