@@ -15,6 +15,9 @@ $(document).ready(function(){
    		if(counter == 0){
    			$(".text").css("display", "block")
    		}
+         if(counter == 7) {
+            $("#inter").css("display", "hidden");
+         }
 
     });
    $(".right").click(function(){
@@ -29,6 +32,9 @@ $(document).ready(function(){
    		if(counter == 0){
    			$(".text").css("display", "block")
    		}
+         if(counter == 8) {
+            $("#inter").css("display", "block");
+         }
 
     });
 

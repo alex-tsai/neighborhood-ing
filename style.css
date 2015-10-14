@@ -38,3 +38,29 @@ body{
 	height: 9em;
 	overflow: scroll;
 }
+#inter{
+	display:none;
+}
+.interview{
+	width:27.33%;
+	height:38%;
+	background-color: rgba(255,255,255, 0.5);
+	color:#111;
+	line-height: 130%;
+	font-family: 'Open Sans', serif;
+	font-size:18px;
+	position:fixed;
+	overflow:scroll;
+	padding: 1.5%;
+	bottom:0;
+}
+
+#jessica{
+	margin-left:0.75%;
+}
+#anon{
+	margin-left:34.08%;
+}
+#fran{
+	margin-left:67.41%;
+}
